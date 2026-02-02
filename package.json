@@ -1,0 +1,27 @@
+{
+  "name": "vault-contract",
+  "version": "1.0.0",
+  "description": "A comprehensive suite of smart contracts implementing vault functionality with yield farming capabilities, following the ERC-4626 standard for tokenized vaults.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayaOnChain/vault-contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yayaOnChain/vault-contract/issues"
+  },
+  "homepage": "https://github.com/yayaOnChain/vault-contract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  },
+  "devDependencies": {
+    "hardhat": "^3.1.6"
+  }
+}
